@@ -3,7 +3,7 @@ vote:
   image:
     repository: sandhyasas/vote
     pullPolicy: IfNotPresent
-    tag: 2741b15
+    tag: abf78a7
   imagePullSecrets: []
   nameOverride: ""
   fullnameOverride: ""
